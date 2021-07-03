@@ -2,7 +2,14 @@
 
 Here are some Shiny apps to help lecturers illustrate some statistic concepts.
 
-The links are provided below.
+The app links are provided below.
 
+* Histogram (https://ebsmonash.shinyapps.io/Histogram/)
 
-The correposnindg R codes are avaialble in each folder.
+* Dice Rolling (https://ebsmonash.shinyapps.io/DiceRollings/)
+
+* Binomial Random Variable (https://ebsmonash.shinyapps.io/Binomial_Random_Variable/)
+
+* Hypothesis Testing (https://ebsmonash.shinyapps.io/HypothesisTest/)
+
+The correposnindg R codes are available in each folder.
