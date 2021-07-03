@@ -12,4 +12,4 @@ The app links are provided below.
 
 * Hypothesis Testing (https://ebsmonash.shinyapps.io/HypothesisTest/)
 
-The correposnindg R codes are available in each folder.
+The corresponding R codes are available in each folder.
