@@ -1,6 +1,6 @@
 # ShinyApps
 
-Here are some Shiny apps to help lecturers illustrate some statistic concepts.
+Here are the Shiny apps to illustrate concepts in statistics.
 
 The app links are provided below.
 
